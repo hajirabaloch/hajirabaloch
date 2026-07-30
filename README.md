@@ -1,35 +1,74 @@
-# Hi, I'm Hajira Baloch 👋
+# Hi there 👋, I'm Hajira Baloch
 
-🎓 BS Data Science Student at the University of Gwadar
+🎓 **BS Data Science Student** at the **University of Gwadar, Pakistan**
 
-## 👩‍💻 About Me
+I'm passionate about **Artificial Intelligence, Machine Learning, Data Science, and Web Development**. I enjoy building projects that solve real-world problems and continuously learning new technologies.
 
-- 📚 Currently studying Data Science
-- 🤖 Interested in Artificial Intelligence, Machine Learning, and Data Analytics
-- 💡 Passionate about solving real-world problems with technology
-- 🌱 Currently learning AI, Data Science, and Software Development
+---
 
-##  Skills
+## 🚀 About Me
+
+- 🎓 BS Data Science Student
+- 🤖 Interested in Artificial Intelligence & Machine Learning
+- 📊 Learning Data Analytics and Data Visualization
+- 💻 Building web applications and Python projects
+- 🌱 Currently improving my skills in AI and Data Science
+
+---
+
+## 🛠️ Tech Stack
+
+**Programming Languages**
 
 - Python
 - C++
-- HTML
-- CSS
 - JavaScript
-- Git & GitHub
 - SQL
 
-##  Featured Projects
+**Web Development**
 
-- Gwadar Community Web Portal
-- AI & Machine Learning Projects
-- Data Science Assignments
-- Information Security Projects
+- HTML5
+- CSS3
 
- ## Connect with Me
+**Tools**
 
-- LinkedIn: (https://www.linkedin.com/in/hajira-baloch-691232317/?lipi=urn%3Ali%3Apage%3Ad_flagship3_profile_view_base_contact_details%3BfKOUk6kVR7OnUX983Tvc5g%3D%3D)
-- GitHub: https://github.com/hajirabaloch
+- Git
+- GitHub
+- Jupyter Notebook
+- VS Code
 
 ---
-⭐ Thanks for visiting my profile!
+
+## 📌 Featured Projects
+
+🌊 **Gwadar Portal**
+- Community services portal for water complaints and tanker requests.
+
+🌍 **Gwadar Community**
+- Digital platform for community services.
+
+📊 **Art Data Analysis**
+- Exploratory data analysis of 55,000 artworks using Python.
+
+📈 **EDA Marketing Analysis**
+- Marketing dataset analysis using Python and data visualization.
+
+---
+
+## 🎯 Current Goals
+
+- Learn Machine Learning and Deep Learning
+- Contribute to Open Source
+- Build AI-powered applications
+- Publish research projects
+
+---
+
+## 📫 Connect With Me
+
+- 💼 LinkedIn: https://www.linkedin.com/in/hajira-baloch-691232317
+- 💻 GitHub: https://github.com/hajirabaloch
+
+---
+
+⭐ Thank you for visiting my GitHub profile!
