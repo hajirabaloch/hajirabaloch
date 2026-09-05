@@ -1,4 +1,4 @@
-# Hi there 👋, I'm Hajira Baloch
+# Hi there 👋, I'm Hajira Rahim Bakhsh
 
 🎓 **BS Data Science Student** at the **University of Gwadar, Pakistan**
 
